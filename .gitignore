@@ -89,9 +89,5 @@ sw.*
 # Vim swap files
 *.swp
 
-# Zip backups and media
-*.zip
-*.mp4
-
 # Script file
 upload_to_github.sh
